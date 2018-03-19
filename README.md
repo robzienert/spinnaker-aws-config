@@ -11,7 +11,7 @@ You need these permissions:
 ```
 	ec2:*
 	iam:*
-	sts:passRole
+	sts:PassRole
 	sts:AssumeRole
 ```
 
